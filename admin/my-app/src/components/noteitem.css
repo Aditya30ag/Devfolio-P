@@ -1,0 +1,11 @@
+.cardcon{
+    background:linear-gradient(#84a4cb,white);
+    border: none;
+    border-radius: 10px;
+    color: rgb(63, 63, 63);
+    font-weight: bold;
+    cursor: pointer;
+    display: flex;
+    transition: background 0.3s, box-shadow 0.3s;
+    box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
+}

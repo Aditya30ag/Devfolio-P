@@ -1,0 +1,25 @@
+.otp-paper {
+    padding: 40px;
+    width: 350px;
+    text-align: center;
+    border-radius: 15px;
+  }
+  
+  .otp-input {
+    width: 45px;
+    margin: 0 5px;
+    font-size: 24px;
+    text-align: center;
+  }
+  
+  .submit-btn {
+    margin-top: 20px;
+    width: 100%;
+  }
+  
+  @media (max-width: 768px) {
+    .otp-paper {
+      width: 90%;
+    }
+  }
+  

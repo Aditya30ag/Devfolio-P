@@ -1,0 +1,10 @@
+@media (min-width: 1197px) {
+    .imgstyle{
+        display: visible;
+    }
+}
+@media (max-width: 1197px) {
+    .imgstyle{
+        display: none;
+    }
+}

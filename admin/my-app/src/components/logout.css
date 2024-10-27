@@ -1,0 +1,81 @@
+.logout-btn {
+    background:linear-gradient(#84a4cb,white);
+    border: none;
+    border-radius: 50px;
+    color: rgb(63, 63, 63);
+    padding: 12px 25px;
+    font-size: 16px;
+    font-weight: bold;
+    cursor: pointer;
+    display: flex;
+    align-items: center;
+    transition: background 0.3s, box-shadow 0.3s;
+    box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
+  }
+
+  .logout-btn:hover {
+    background: linear-gradient(135deg, #e76f51,#e79a9a);
+    box-shadow: 0 6px 10px rgba(0, 0, 0, 0.2);
+  }
+
+  .logout-btn i {
+    margin-right: 10px;
+    font-size: 18px;
+  }
+
+  .same-btn {
+    background:linear-gradient(#4d94eb,white);
+    border: none;
+    border-radius: 50px;
+    color: rgb(63, 63, 63);
+    padding: 8px 20px;
+    font-weight: bold;
+    cursor: pointer;
+    display: flex;
+    align-items: center;
+    transition: background 0.3s, box-shadow 0.3s;
+    box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
+  }
+
+  .same-btn:hover {
+    background: linear-gradient(135deg, #d3c9c6,#e79a9a);
+    box-shadow: 0 6px 10px rgba(0, 0, 0, 0.2);
+  }
+
+  .same-btn i {
+    margin-right: 10px;
+    font-size: 18px;
+  }
+
+  .same-btn1 {
+    background:linear-gradient( #3782d1,white);
+    border: none;
+    border-radius: 50px;
+    color: rgb(25, 25, 25);
+    padding: 8px 20px;
+    font-weight: bold;
+    cursor: pointer;
+    display: flex;
+    align-items: center;
+    transition: background 0.3s, box-shadow 0.3s;
+    box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
+    margin-bottom:5px;
+  }
+
+  .same-btn1:hover {
+    background: linear-gradient( #0056b3,white);
+    box-shadow: 0 6px 10px rgba(0, 0, 0, 0.2);
+    transition: background 0.3s, color 0.1s;
+    color:rgb(29, 27, 27);
+  }
+
+  .same-btn1 i {
+    margin-right: 10px;
+    font-size: 18px;
+  }
+
+.container1adminlogin{
+    background-image: url("C:\Users\adity\Desktop\votingapp-1\my-app\public\Screenshot 2024-10-12 151648.png");
+    background-size: cover;
+    opacity: 0.9;
+}
